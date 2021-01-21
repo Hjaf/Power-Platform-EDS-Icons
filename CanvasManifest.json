@@ -1,0 +1,65 @@
+{
+  "FormatVersion": "0.14",
+  "Header": {
+    "DocVersion": "1.300",
+    "MinVersionToLoad": "1.300",
+    "MSAppStructureVersion": "2.0"
+  },
+  "Properties": {
+    "AppCreationSource": "AppFromScratch",
+    "AppDescription": "A set of tools and workarounds used in Equinor PowerApps development\n\ncreated and maintained by Hjalmar Otto Fjøsne - hjaf@equinor.com",
+    "AppPreviewFlagsKey": [
+      "delayloadscreens",
+      "blockmovingcontrol",
+      "projectionmapping",
+      "usedisplaynamemetadata",
+      "usenonblockingonstartrule",
+      "enhancedgroupcontrol",
+      "useguiddatatypes",
+      "useexperimentalcdsconnector",
+      "useenforcesavedatalimits",
+      "componentauthoring",
+      "reliableconcurrent",
+      "dataTableV2Control",
+      "nativecdsexperimental",
+      "useexperimentalsqlconnector",
+      "enablecdsfileandlargeimage",
+      "enhanceddelegation",
+      "aibuilderserviceenrollment",
+      "enablesummerlandgeospatialfeatures",
+      "enablesummerlandmixedrealityfeatures"
+    ],
+    "Author": "",
+    "ContainsThirdPartyPcfControls": false,
+    "DefaultConnectedDataSourceMaxGetRowsCount": 500,
+    "DocumentAppType": "Phone",
+    "DocumentLayoutHeight": 1136,
+    "DocumentLayoutLockOrientation": true,
+    "DocumentLayoutMaintainAspectRatio": true,
+    "DocumentLayoutOrientation": "portrait",
+    "DocumentLayoutScaleToFit": true,
+    "DocumentLayoutWidth": 640,
+    "DocumentType": "ComponentLibrary",
+    "EnableInstrumentation": false,
+    "ErrorCount": 0,
+    "FileID": "8bbb8554-b442-4219-94cc-63ba72643e8d",
+    "Id": "34c71ffd-7b2d-496c-8027-2af35cad717f",
+    "InstrumentationKey": "",
+    "Name": "Equinor+Devtools.msapp",
+    "OriginatingVersion": "1.300"
+  },
+  "PublishInfo": {
+    "AppName": "Equinor Devtools",
+    "BackgroundColor": "rgba(76, 74, 72, 1)",
+    "IconColor": "RGBA(255,255,255,1)",
+    "IconName": "Library",
+    "LogoFileName": "logo.jpg",
+    "PublishDataLocally": false,
+    "PublishResourcesLocally": false,
+    "PublishTarget": "player",
+    "UserLocale": "en-US"
+  },
+  "ScreenOrder": [
+    "Screen1"
+  ]
+}

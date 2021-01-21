@@ -1,0 +1,102 @@
+{
+  "AppCheckerResult": "{\"$schema\":\"https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.4.json\",\"version\":\"2.1.0\",\"runs\":[{\"results\":[{\"ruleId\":\"acc-HtmlShouldNotBeInteractive\",\"ruleIndex\":0,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.htmComponentInformation.HtmlText\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.htmComponentInformation.HtmlText\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons.htmComponentInformation\",\"member\":\"HtmlText\"}}],\"properties\":{\"level\":\"Low\"}},{\"ruleId\":\"acc-AccessibleLabelNeeded\",\"ruleIndex\":1,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.icoSVGHtmlSnip.AccessibleLabel\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.icoSVGHtmlSnip.AccessibleLabel\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons.icoSVGHtmlSnip\",\"member\":\"AccessibleLabel\"}}],\"properties\":{\"level\":\"Medium\"}},{\"ruleId\":\"acc-TabIndexShouldBeDefinedForInteractiveControl\",\"ruleIndex\":2,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.icoSVGHtmlSnip.TabIndex\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.icoSVGHtmlSnip.TabIndex\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons.icoSVGHtmlSnip\",\"member\":\"TabIndex\"}}],\"properties\":{\"level\":\"Medium\"}},{\"ruleId\":\"acc-AccessibleLabelNeeded\",\"ruleIndex\":1,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.txtSVGHtmlSnip.AccessibleLabel\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.txtSVGHtmlSnip.AccessibleLabel\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons.txtSVGHtmlSnip\",\"member\":\"AccessibleLabel\"}}],\"properties\":{\"level\":\"Medium\"}},{\"ruleId\":\"acc-AccessibleLabelNeeded\",\"ruleIndex\":1,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.txtDevToolsEDSIconsSearch.AccessibleLabel\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.txtDevToolsEDSIconsSearch.AccessibleLabel\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons.txtDevToolsEDSIconsSearch\",\"member\":\"AccessibleLabel\"}}],\"properties\":{\"level\":\"Medium\"}},{\"ruleId\":\"acc-AccessibleLabelNeeded\",\"ruleIndex\":1,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.galIcons.AccessibleLabel\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.galIcons.AccessibleLabel\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons.galIcons\",\"member\":\"AccessibleLabel\"}}],\"properties\":{\"level\":\"Medium\"}},{\"ruleId\":\"acc-TabIndexShouldBeDefinedForInteractiveControl\",\"ruleIndex\":2,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.galIcons.TabIndex\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.galIcons.TabIndex\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons.galIcons\",\"member\":\"TabIndex\"}}],\"properties\":{\"level\":\"Medium\"}},{\"ruleId\":\"acc-AccessibleLabelNeeded\",\"ruleIndex\":1,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.txtPowerAppsSVGImageDataString.AccessibleLabel\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.txtPowerAppsSVGImageDataString.AccessibleLabel\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons.txtPowerAppsSVGImageDataString\",\"member\":\"AccessibleLabel\"}}],\"properties\":{\"level\":\"Medium\"}},{\"ruleId\":\"acc-AccessibleLabelNeeded\",\"ruleIndex\":1,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.drpColorCategory.AccessibleLabel\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.drpColorCategory.AccessibleLabel\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons.drpColorCategory\",\"member\":\"AccessibleLabel\"}}],\"properties\":{\"level\":\"Medium\"}},{\"ruleId\":\"acc-AccessibleLabelNeeded\",\"ruleIndex\":1,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.galColors.AccessibleLabel\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.galColors.AccessibleLabel\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons.galColors\",\"member\":\"AccessibleLabel\"}}],\"properties\":{\"level\":\"Medium\"}},{\"ruleId\":\"acc-TabIndexShouldBeDefinedForInteractiveControl\",\"ruleIndex\":2,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.galColors.TabIndex\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.galColors.TabIndex\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons.galColors\",\"member\":\"TabIndex\"}}],\"properties\":{\"level\":\"Medium\"}},{\"ruleId\":\"acc-AccessibleLabelNeeded\",\"ruleIndex\":1,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.sldRgbaGreen.AccessibleLabel\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.sldRgbaGreen.AccessibleLabel\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons.sldRgbaGreen\",\"member\":\"AccessibleLabel\"}}],\"properties\":{\"level\":\"Medium\"}},{\"ruleId\":\"acc-AccessibleLabelNeeded\",\"ruleIndex\":1,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.sldRgbaRed.AccessibleLabel\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.sldRgbaRed.AccessibleLabel\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons.sldRgbaRed\",\"member\":\"AccessibleLabel\"}}],\"properties\":{\"level\":\"Medium\"}},{\"ruleId\":\"acc-AccessibleLabelNeeded\",\"ruleIndex\":1,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.sldRgbaBlue.AccessibleLabel\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.sldRgbaBlue.AccessibleLabel\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons.sldRgbaBlue\",\"member\":\"AccessibleLabel\"}}],\"properties\":{\"level\":\"Medium\"}},{\"ruleId\":\"acc-AccessibleLabelNeeded\",\"ruleIndex\":1,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.sldRgbaAlpha.AccessibleLabel\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.sldRgbaAlpha.AccessibleLabel\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons.sldRgbaAlpha\",\"member\":\"AccessibleLabel\"}}],\"properties\":{\"level\":\"Medium\"}},{\"ruleId\":\"acc-AccessibleLabelNeeded\",\"ruleIndex\":1,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.txtColorValueInput.AccessibleLabel\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.txtColorValueInput.AccessibleLabel\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons.txtColorValueInput\",\"member\":\"AccessibleLabel\"}}],\"properties\":{\"level\":\"Medium\"}},{\"ruleId\":\"acc-ReadableScreenNameNeeded\",\"ruleIndex\":3,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"Screen1\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"Screen1\"}],\"properties\":{\"module\":\"Screen1\",\"type\":\"Screen1\"}}],\"properties\":{\"level\":\"Low\"}},{\"ruleId\":\"app-UnusedVariables\",\"ruleIndex\":4,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.varEDS\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.varEDS\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons\",\"member\":\"varEDS\"}}],\"properties\":{\"level\":\"Medium\"}},{\"ruleId\":\"app-UnusedVariables\",\"ruleIndex\":4,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"edsSVGIcons.varShowDemo\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"edsSVGIcons.varShowDemo\"}],\"properties\":{\"module\":\"edsSVGIcons\",\"type\":\"edsSVGIcons\",\"member\":\"varShowDemo\"}}],\"properties\":{\"level\":\"Medium\"}}],\"tool\":{\"driver\":{\"name\":\"PowerApps app checker\",\"fullName\":\"PowerApps app checker\",\"version\":\"1.300\",\"rules\":[{\"id\":\"acc-HtmlShouldNotBeInteractive\",\"messageStrings\":{\"issue\":{\"text\":\"If this HTML contains interactive elements, consider using another method, or remove the HTML from this element.\"}},\"properties\":{\"howToFix\":[\"Use another method instead of HTML, or remove the HTML from this element.\"],\"whyFix\":\"Your app won't work correctly and will not be accessible if you place interactive HTML elements.\",\"level\":\"Low\",\"componentType\":\"app\",\"primaryCategory\":\"accessibility\"}},{\"id\":\"acc-AccessibleLabelNeeded\",\"messageStrings\":{\"issue\":{\"text\":\"Missing accessible label\"}},\"properties\":{\"howToFix\":[\"Edit the accessible label property to describe the item.\"],\"whyFix\":\"If there's no accessible text, people who can’t see the screen won't understand what’s in images and controls.\",\"level\":\"Medium\",\"componentType\":\"app\",\"primaryCategory\":\"accessibility\"}},{\"id\":\"acc-TabIndexShouldBeDefinedForInteractiveControl\",\"messageStrings\":{\"issue\":{\"text\":\"Missing tab stop\"}},\"properties\":{\"howToFix\":[\"Set TabIndex to 0 or greater to ensure that interactive elements have a tab stop.\"],\"whyFix\":\"People who use the keyboard with your app will not be able to access this element without a tab stop.\",\"level\":\"Medium\",\"componentType\":\"app\",\"primaryCategory\":\"accessibility\"}},{\"id\":\"acc-ReadableScreenNameNeeded\",\"messageStrings\":{\"issue\":{\"text\":\"Revise screen name\"}},\"properties\":{\"howToFix\":[\"Give the screen  a title that describes what's on the screen or what it's used for.\"],\"whyFix\":\"People who are blind, have low vision, or a reading disability rely on screen titles to navigate using the screen reader. \",\"level\":\"Low\",\"componentType\":\"app\",\"primaryCategory\":\"accessibility\"}},{\"id\":\"app-UnusedVariables\",\"messageStrings\":{\"issue\":{\"text\":\"Unused variable\"}},\"properties\":{\"howToFix\":[\"Remove the unused variable.\"],\"whyFix\":\"This variable is declared but is not referenced by any control, so it is not needed.\",\"componentType\":\"app\",\"primaryCategory\":\"performance\",\"level\":\"Medium\"}}]}},\"invocations\":[{\"startTimeUtc\":\"2021-01-21T09:03:36.670Z\",\"endTimeUtc\":\"2021-01-21T09:03:36.751Z\",\"executionSuccessful\":true}],\"columnKind\":\"utf16CodeUnits\"}]}",
+  "ComponentIndexes": {
+    "edsSVGIcons": 1
+  },
+  "ControlUniqueIds": {
+    "App": 1,
+    "btnColorPreview": 28,
+    "btnColorSample": 21,
+    "btnCreateSVGFromHtmlSnip": 9,
+    "btnLoadEDS": 7,
+    "btnShowAboutThisComponent": 40,
+    "drpColorCategory": 23,
+    "edsSVGIcons": 3,
+    "galColors": 24,
+    "galIcons": 13,
+    "galleryTemplate16_1": 14,
+    "galleryTemplate17": 25,
+    "grpColors": 41,
+    "htmComponentInformation": 4,
+    "icoSVGHtmlSnip": 6,
+    "imgColorCategory": 22,
+    "imgEDSIcon": 15,
+    "imgPreview": 12,
+    "imgtxtDevToolsEDSIconsSearch": 10,
+    "lblColorName": 26,
+    "lblColorType": 30,
+    "lblColorType_1": 27,
+    "lblColorType_2": 29,
+    "lblEDSIconName": 16,
+    "lblEDSIconPrefix": 17,
+    "lblPowerAppsSVGImageString": 19,
+    "lblRgbaAlpha": 34,
+    "lblRgbaBlue": 33,
+    "lblRgbaGreen": 32,
+    "lblRgbaRed": 31,
+    "lblTitle": 5,
+    "Screen1": 42,
+    "shpEDSIconDivider": 18,
+    "sldRgbaAlpha": 38,
+    "sldRgbaBlue": 37,
+    "sldRgbaGreen": 35,
+    "sldRgbaRed": 36,
+    "txtColorValueInput": 39,
+    "txtDevToolsEDSIconsSearch": 11,
+    "txtPowerAppsSVGImageDataString": 20,
+    "txtSVGHtmlSnip": 8
+  },
+  "HeaderLastSavedDateTimeUTC": "01/21/2021 09:03:36",
+  "LocalResourceRootPaths": {},
+  "OldLogoFileName": "qfj3fbon.jpg",
+  "OrderComponentMetadata": {
+    "eac4df098b834515a54bf8dbe88eea5d": 0
+  },
+  "OrderComponentTemplate": {
+    "eac4df098b834515a54bf8dbe88eea5d": 0
+  },
+  "OrderDataSource": {
+    "ComboBoxSample": 1,
+    "CustomGallerySample": 0,
+    "DropDownSample": 2
+  },
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 3,
+    "dropdown": 8,
+    "gallery": 6,
+    "htmlViewer": 0,
+    "icon": 2,
+    "image": 5,
+    "label": 1,
+    "rectangle": 7,
+    "slider": 9,
+    "text": 4
+  },
+  "PublishOrderIndexOffsets": {
+    "edsSVGIcons": 1
+  },
+  "TemplateVersions": {
+    "eac4df098b834515a54bf8dbe88eea5d": "637468166166694772"
+  },
+  "VolatileProperties": {
+    "AnalysisLoadTime": 1.157334,
+    "ControlCount": {
+      "button": 5,
+      "dropdown": 1,
+      "eac4df098b834515a54bf8dbe88eea5d": 1,
+      "gallery": 2,
+      "galleryTemplate": 2,
+      "group": 1,
+      "htmlViewer": 1,
+      "icon": 1,
+      "image": 4,
+      "label": 12,
+      "rectangle": 1,
+      "screen": 1,
+      "slider": 4,
+      "text": 4
+    },
+    "DeserializationLoadTime": 3.9833571
+  }
+}

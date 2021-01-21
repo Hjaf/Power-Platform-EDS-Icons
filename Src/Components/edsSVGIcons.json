@@ -1,0 +1,41 @@
+{
+  "ComponentAllowCustomization": true,
+  "ComponentChangedSinceFileImport": true,
+  "ComponentManifest": {
+    "AllowCustomization": true,
+    "Description": "",
+    "Name": "edsSVGIcons",
+    "TemplateGuid": "eac4df098b834515a54bf8dbe88eea5d"
+  },
+  "ComponentType": "CanvasComponent",
+  "CustomGroupControlTemplateName": "",
+  "CustomProperties": [
+    {
+      "Category": 0,
+      "DisplayName": "EDS Icons",
+      "Hidden": false,
+      "Name": "EDSIcons",
+      "PropertyDataTypeKey": "Table",
+      "Tooltip": "EDS Icon Collection",
+      "Type": "{\"Version\":\"1.300\",\"Type\":{\"Name\":\"Root\",\"Kind\":\"Table\",\"EnumString\":\"\",\"Type\":[{\"Name\":\"height\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]},{\"Name\":\"name\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]},{\"Name\":\"prefix\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]},{\"Name\":\"svgPathData\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]},{\"Name\":\"svgPowerAppsPathData\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]},{\"Name\":\"width\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]}]}}"
+    },
+    {
+      "Category": 0,
+      "DisplayName": "EDS Colors",
+      "Hidden": false,
+      "Name": "EDSColors",
+      "PropertyDataTypeKey": "Table",
+      "Tooltip": "EDS Color Presets",
+      "Type": "{\"Version\":\"1.300\",\"Type\":{\"Name\":\"Root\",\"Kind\":\"Table\",\"EnumString\":\"\",\"Type\":[{\"Name\":\"title\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]},{\"Name\":\"values\",\"Kind\":\"Table\",\"EnumString\":\"\",\"Type\":[{\"Name\":\"hex\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]},{\"Name\":\"hsla\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]},{\"Name\":\"name\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]},{\"Name\":\"rgba\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]}]}]}}"
+    }
+  ],
+  "FirstParty": true,
+  "Id": "http://microsoft.com/appmagic/Component",
+  "IsComponentLocked": false,
+  "IsComponentTemplate": true,
+  "IsCustomGroupControlTemplate": false,
+  "LastModifiedTimestamp": "637468156793171591",
+  "Name": "eac4df098b834515a54bf8dbe88eea5d",
+  "OverridableProperties": {},
+  "Version": "637466642322186616"
+}
